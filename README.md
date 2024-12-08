@@ -48,7 +48,7 @@ A real-time video processing application that combines motion detection and edge
 - Combined: A merged visualization combining motion detection and edge-detected frames.
 
 ## Example
-![Application Screenshot](images/Motion.png)
+![Application Screenshot](Images/Motion.png)
 
 ## Future Improvements
 - video recording and saving option
